@@ -70,7 +70,7 @@ Otherwise, we will not merge your pull requests.
 | coin98.bit | https://coin98.com | All In One DeFi Platform To swap, stake, borrow, lend, invest and earn with crypto at ease.|
 | dharma.bit | https://www.dharma.io/ | The Ethereum wallet that connects to your bank account. |
 | ownbit.bit | https://ownbit.io/ | The most trusted MultiSig & Cold wallet |
-
+| sai.bit | https://sai.tech | The btc mining company to be listed on Nasdaq with the ticker SAI |
 
 ## First Round of Applications（closed！！！）
 
